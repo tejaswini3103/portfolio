@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("/images/bg3.jpg");
+    height: 200%;
+}
+h1{
+    color:aliceblue;
+    font-family:monospace;
+}
+img{
+    float: right;
+    margin-top: 7%;
+}
+.about{
+    justify-content: center;
+}
